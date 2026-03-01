@@ -55,7 +55,7 @@ function createWindow() {
   mainWindow = new BrowserWindow({
     show: false,
     autoHideMenuBar: true,
-    backgroundColor: '#000000',
+    backgroundColor: '#0b0b0b',
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
       contextIsolation: true,

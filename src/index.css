@@ -278,7 +278,7 @@ button {
 }
 
 .fullscreenBTN {
-  background: green;
+  background: rgb(0, 160, 0);
   color: white;
   border: none;
   font-size: 15px;
