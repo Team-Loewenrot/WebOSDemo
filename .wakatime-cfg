@@ -1,4 +1,4 @@
 [settings]
 api_url = https://hackatime.hackclub.com/api/hackatime/v1
-api_key = 6e831fa8-c338-4b43-8a95-96f763733582
+api_key = ...
 heartbeat_rate_limit_seconds = 30
